@@ -48,8 +48,6 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-*.Rproject
-
 output
 
 data
